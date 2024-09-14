@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ruxado.github.io/Dfd/sitemap.Dfd.gz
